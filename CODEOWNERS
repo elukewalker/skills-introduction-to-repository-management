@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @elukewalker
+/src/backend/database.py      @elukewalker
+/src/backend/routers/auth.py  @elukewalker
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @elukewalker
